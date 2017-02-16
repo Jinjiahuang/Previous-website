@@ -12,10 +12,9 @@ h2 {
 
 #t1 {
     padding: 30px 10px;
-    background: hotpink;
 }
 
-p { 
+ { 
     color: #424242;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -26,4 +25,8 @@ p {
 #example {
     margin-bottom: 50px;
 }
-
+#work1{
+    padding: 20px;
+    height: 30%;
+    text-align: center;
+} 
